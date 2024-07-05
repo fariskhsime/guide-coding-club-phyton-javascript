@@ -122,3 +122,7 @@ console.log(person);  // Output: {name: 'John', age: 31}
 delete person.age;
 console.log(person);  // Output: {name: 'John'}
 ```
+
+## Exécuter sur un compilateur en ligne
+
+Pour exécuter rapidement du code JavaScript sans installer de logiciel, tu peux utiliser [JSFiddle](https://jsfiddle.net/).

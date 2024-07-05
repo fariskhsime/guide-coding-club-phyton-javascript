@@ -120,3 +120,7 @@ print(person)  # Output: {'name': 'John', 'age': 31}
 del person["age"]
 print(person)  # Output: {'name': 'John'}
 ```
+
+## Exécuter sur un compilateur en ligne
+
+Pour exécuter rapidement du code Python sans installer de logiciel, tu peux utiliser [Repl.it](https://repl.it/languages/python3).
